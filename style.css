@@ -16,7 +16,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 5.5rem; }
 body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); line-height: 1.5; -webkit-font-smoothing: antialiased; }
 img { display: block; max-width: 100%; }
 a { color: inherit; text-decoration: none; }
-ul { list-style: none; margin: 0; padding: 0; }
+ul, ol { list-style: none; margin: 0; padding: 0; }
 h1, h2, h3, p, dl, dd, figure, address { margin: 0; }
 h1, h2, h3 { font-family: var(--display); font-weight: 400; }
 p { text-align: justify; hyphens: auto; }
