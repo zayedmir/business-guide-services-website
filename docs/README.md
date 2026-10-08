@@ -35,7 +35,9 @@ business-guide-services/
 
 ## AI Usage
 
-Requirements gathering, final code edits, and review were done by me. Netlify's AI generator produced a first draft of the site, and Claude helped migrate it to plain HTML/CSS/JS. I reviewed and edited the result and am responsible for the final product. [Full AI usage statement →](./AI_USAGE.md)
+Requirements gathering, final code edits, and review were done by me. Netlify's AI generator produced a first draft of the site, and Claude helped migrate it to plain HTML/CSS/JS. I reviewed and edited the result and am responsible for the final product. 
+
+[Full AI usage statement](./AI_USAGE.md)
 
 ## Running Locally
 Because this is a pure static site, there is no development server required. 
