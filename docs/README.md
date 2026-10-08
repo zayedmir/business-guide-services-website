@@ -1,13 +1,13 @@
 # Business Guide Services
 
-A clean, high-performance static website built for a Dubai-based typing centre and corporate services firm. 
+A clean, high-performance static website built for a Dubai-based typing centre and business setup services firm. 
 
 **[View the Live Site Here](https://zayedmir.github.io/business-guide-services-website/)** 
 
 ## Overview
-This project serves as the digital storefront for Business Guide Services, detailing their core offerings across government typing, trademark registration, and business setup. 
+This project serves as the digital face for Business Guide Services, detailing their core offerings across government typing, trademark registration, and business setup. 
 
-As a junior software development student, this website represents the culmination of my learning in my **Web Systems and Technologies** course. Rather than relying on heavy frameworks or templates, I chose to build this entirely with vanilla web technologies to solidify my grasp of core DOM manipulation, semantic structure, and responsive design. 
+As a Junior Software Development Student, this website represents the culmination of my learning in my **Web Systems and Technologies** course. Rather than relying on heavy frameworks or templates, I chose this webpage to be built entirely with vanilla web technologies to solidify my grasp of core DOM manipulation, semantic structure, and responsive design. 
 
 Additionally, this project served as a practical exercise in **responsible AI collaboration**—using AI as a pair-programming partner to troubleshoot bugs, refactor architecture, and streamline development while maintaining complete understanding and ownership of the final codebase.
 
@@ -32,6 +32,10 @@ business-guide-services/
 * **Intersection Observers:** Custom vanilla JS scroll-reveal animations that are lightweight and performant.
 * **Seamless WhatsApp Integration:** Client-side form handling that instantly builds and routes detailed service inquiries directly to the business's WhatsApp line.
 * **Instant Load Times:** By removing framework bloat, the site delivers immediate content rendering, which is critical for the target demographic needing quick government service information.
+
+## AI Usage
+
+Requirements gathering, final code edits, and review were done by me. Netlify's AI generator produced a first draft of the site, and Claude helped migrate it to plain HTML/CSS/JS. I reviewed and edited the result and am responsible for the final product. [Full AI usage statement →](./AI_USAGE.md)
 
 ## Running Locally
 Because this is a pure static site, there is no development server required. 
