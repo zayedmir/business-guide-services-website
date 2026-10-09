@@ -13,7 +13,7 @@ const COMPANY = {
   authority: 'Department of Economy and Tourism (DET)',
   phone: '971544761111',            // digits only, used by wa.me and tel:
   phoneDisplay: '+971 54 476 1111',
-  email: 'dubaibgs2026@gmail.com',
+  email: 'info@dubaibgs.ae',
   mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Radiance+One+Business+Center+Riggat+Al+Buteen+Deira+Dubai',
   address: ['Office 235, Radiance One Business Center', 'Riggat Al Buteen, Deira', 'Dubai, United Arab Emirates'],
   landmark: 'Beside Al Reem Tower',
